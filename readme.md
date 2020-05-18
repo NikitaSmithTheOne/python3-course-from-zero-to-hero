@@ -20,7 +20,8 @@
 
 ### Дополнительно
 14. Slice Notation
-15. Shallow Copy and Deep Copy
+15. PythonTutor
+16. Shallow Copy and Deep Copy
 
 *ps. На все описанные выше уроки есть материал, который нужно обработать в пригодный вид. 
 Уроки имеющие статус **DONE** реализованы в качестве блокнотов JupyterLab.*
